@@ -1,24 +1,23 @@
-# Hi there, I'm Akshay Ashtunkar 👋
+# Hi, I'm Akshay Ashtunkar 👋 
+**Senior Software Engineer (SDE-3) @ Angel One**
 
-**Senior Software Engineer (SDE-3) at Angel One**
+I specialize in building and scaling high-throughput, low-latency trading and backend systems. With over 7.5 years of experience, I focus on distributed system architecture and cloud-native platforms that maintain 99.99%+ availability.
 
-I am a backend specialist with over 7.5 years of experience in building low-latency trading systems and high-throughput distributed architectures. I focus on delivering fault-tolerant services (99.99%+ availability) and modernizing legacy infrastructures using cloud-native technologies.
+### 🏗️ What I'm working on
+- **US Stocks Trading Platform:** Leading the end-to-end architecture and delivery of scalable trading services at Angel One.
+- **Event-Driven Excellence:** Designing microservices on AWS (SQS, S3, Event Bridge) with strict fault isolation and SLA compliance.
+- **System Modernization:** Migrating legacy pipelines to AWS Glue/PySpark, reducing latency from hours to minutes.
 
-### 🚀 Technical Expertise
+### 🛠️ Technical Toolkit
 - **Languages:** Golang, C++, Python, Java, SQL
-- **Distributed Systems:** Microservices, Event-Driven Architecture, RESTful APIs, High-TPS Backend
-- **Cloud & DevOps:** AWS (SQS, S3, Event Bridge, ECS, Glue), Docker, Kubernetes, CI/CD
-- **Data Engineering:** PySpark, AWS Glue, SQL-based modeling
+- **Systems:** Distributed Systems, Microservices, High-TPS Backends, Kafka, Redis
+- **Cloud:** AWS (ECS, SQS, SNS, Event Bridge, Glue), Docker, Kubernetes
+- **Reliability:** Grafana, Performance Tuning, Production Debugging
 
-### 💼 Current Focus
-- Leading architecture for **US Stocks trading platform** services at Angel One.
-- Designing event-driven microservices on AWS with a focus on scalability and SLA compliance.
-
-### 🏆 Achievements
-- **Angel One Tech Titan Award** (2024)
-- **M.Tech Gold Medalist** in Computer Engineering from SV-NIT
+### 🏅 Recognition
+- **Tech Titan Award (2024)** & **Individual Tech Excellence Award** @ Angel One
+- **M.Tech Gold Medalist** (Computer Engineering) from SV-NIT Surat
 - **Qualcomm Orion Award** (2022)
 
-### 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/akshayashtunkar)
-- Email: aaashtunkar@gmail.com
+---
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/akshayashtunkar) | aaashtunkar@gmail.com
